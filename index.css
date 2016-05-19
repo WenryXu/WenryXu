@@ -401,9 +401,6 @@ a:hover, a:focus {
     color: #ed6a43;
 }
 
-/*
- * QiaoBu
- */
 .resume {
-    background-color: white;
+    border-bottom: none !important;
 }
